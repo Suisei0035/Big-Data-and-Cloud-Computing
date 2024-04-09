@@ -13,8 +13,8 @@
 实验内容：
 - 创建GitHub账号
 - 创建Repo
-- 基于MarkDown编写README.md
-- 提交代码
+- 基于MarkDown编写README.md(2024/4/9 16：56于此修改）
+- 提交代码（提交了MoveUV.shader文件）
 - Fork&Star Repo
 - 基于Repo改写main/test.py
 
