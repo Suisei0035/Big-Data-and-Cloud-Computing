@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 from pylab import mpl
-# 设置显示中文字体
+# 设置显示中文字体    
 mpl.rcParams["font.sans-serif"] = ["SimHei"]
 # 读取数据
 data = pd.read_csv(r"D:\桌面管理\大三下学期\数据可视化\实验4\birthrate.csv", delimiter=',')
